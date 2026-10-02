@@ -1,0 +1,4 @@
+interface:
+  display_name: "Psychology Skills · 心理学工具包"
+  short_description: "整合行为分析、关系沟通、荣格自我探索与哲学心理深度对话的四合一工具包"
+  default_prompt: "请用 $psychology-skills 帮我梳理当前困扰，并选择合适的方式陪我分析。"

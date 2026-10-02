@@ -1,0 +1,34 @@
+[
+  {
+    "module": "academic",
+    "repository": "https://github.com/bestagentkits/agency-skills",
+    "commit": "a837f9f81a4dc42b58a9ba87ab65e5110112a9c8",
+    "entry": "skills/academic/academic-psychologist/SKILL.md",
+    "retrieved": "2026-10-03",
+    "license": "MIT; see bundled LICENSE"
+  },
+  {
+    "module": "love",
+    "repository": "https://github.com/pajama-studio/love-skill",
+    "commit": "316bf52d90ff7c37f361007fa9ebdbfdbff51ce0",
+    "entry": "SKILL.md",
+    "retrieved": "2026-10-03",
+    "license": "MIT (README declaration; no standalone LICENSE found)"
+  },
+  {
+    "module": "jungian",
+    "repository": "https://github.com/zhwenchao/jungian-soul-agent-skills",
+    "commit": "7d2f4dff428d16b9385f445665702b1dc2e3358c",
+    "entry": "skill.md",
+    "retrieved": "2026-10-03",
+    "license": "MIT; see bundled LICENSE"
+  },
+  {
+    "module": "dialogue",
+    "repository": "https://github.com/arikmir/deep-dialogue",
+    "commit": "b9b02ad373e37c8e3d913390f342189179e91bff",
+    "entry": "SKILL.md",
+    "retrieved": "2026-10-03",
+    "license": "MIT (README declaration; no standalone LICENSE found)"
+  }
+]
